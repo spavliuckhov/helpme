@@ -1,0 +1,23 @@
+{
+  "name": "helpme",
+  "description": "",
+  "main": "",
+  "authors": [
+    "bk <sergey.pavliyckhov@gmail.com>"
+  ],
+  "license": "private",
+  "private": "true",
+  "homepage": "https://github.com/spavliuckhov/helpme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.11",
+    "bootstrap": "~3.3.7",
+    "fontawesome": "~4.6.3"
+  }
+}
